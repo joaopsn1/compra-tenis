@@ -1,8 +1,10 @@
 package dominio;
 
+import formapagamento.TipoPagamento;
+
 import java.util.Scanner;
 
-import static dominio.TipoPagamento.CREDITO;
+import static formapagamento.TipoPagamento.CREDITO;
 
 public class Tenis {
     Scanner scanner = new Scanner(System.in);

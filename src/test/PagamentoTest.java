@@ -3,7 +3,7 @@ package test;
 import dominio.ContaBancaria;
 import dominio.Pessoa;
 import dominio.Tenis;
-import dominio.TipoPagamento;
+import formapagamento.TipoPagamento;
 
 public class PagamentoTest {
     public static void main(String[] args) {

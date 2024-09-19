@@ -1,4 +1,4 @@
-package dominio;
+package formapagamento;
 
 public enum TipoPagamento {
     DEBITO {
